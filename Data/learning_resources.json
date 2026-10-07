@@ -1,0 +1,199 @@
+{
+  "python": {
+    "level": "Beginner",
+    "topics": [
+      "Python syntax",
+      "Functions",
+      "OOP",
+      "File handling",
+      "Exception handling"
+    ],
+    "resources": [
+      "Python official documentation",
+      "Build small Python projects"
+    ]
+  },
+  "sql": {
+    "level": "Beginner",
+    "topics": [
+      "SELECT",
+      "WHERE",
+      "GROUP BY",
+      "JOIN",
+      "Subqueries",
+      "Window functions"
+    ],
+    "resources": [
+      "Practice SQL problems",
+      "Build a database project"
+    ]
+  },
+  "pandas": {
+    "level": "Beginner",
+    "topics": [
+      "DataFrame",
+      "Filtering",
+      "Grouping",
+      "Missing values",
+      "Data cleaning"
+    ],
+    "resources": [
+      "Pandas documentation",
+      "Practice with real datasets"
+    ]
+  },
+  "power bi": {
+    "level": "Beginner",
+    "topics": [
+      "Data import",
+      "Data cleaning",
+      "Relationships",
+      "DAX",
+      "Dashboard design"
+    ],
+    "resources": [
+      "Microsoft Power BI learning"
+    ]
+  },
+  "excel": {
+    "level": "Beginner",
+    "topics": [
+      "Formulas",
+      "Pivot tables",
+      "Charts",
+      "Lookup functions",
+      "Data cleaning"
+    ],
+    "resources": [
+      "Practice business datasets"
+    ]
+  },
+  "machine learning": {
+    "level": "Intermediate",
+    "topics": [
+      "Regression",
+      "Classification",
+      "Clustering",
+      "Feature engineering",
+      "Model evaluation"
+    ],
+    "resources": [
+      "Scikit-learn documentation",
+      "Build machine learning projects"
+    ]
+  },
+  "scikit-learn": {
+    "level": "Intermediate",
+    "topics": [
+      "Preprocessing",
+      "Train-test split",
+      "Classification",
+      "Regression",
+      "Model evaluation"
+    ],
+    "resources": [
+      "Scikit-learn documentation"
+    ]
+  },
+  "statistics": {
+    "level": "Beginner",
+    "topics": [
+      "Mean",
+      "Median",
+      "Variance",
+      "Probability",
+      "Hypothesis testing"
+    ],
+    "resources": [
+      "Practice statistics using datasets"
+    ]
+  },
+  "nlp": {
+    "level": "Intermediate",
+    "topics": [
+      "Text preprocessing",
+      "Tokenization",
+      "TF-IDF",
+      "Embeddings",
+      "Text classification"
+    ],
+    "resources": [
+      "Build NLP projects"
+    ]
+  },
+  "llm": {
+    "level": "Intermediate",
+    "topics": [
+      "LLM fundamentals",
+      "Prompt engineering",
+      "Embeddings",
+      "RAG",
+      "Evaluation"
+    ],
+    "resources": [
+      "Build an LLM application"
+    ]
+  },
+  "transformers": {
+    "level": "Intermediate",
+    "topics": [
+      "Attention",
+      "Transformers",
+      "Sentence embeddings",
+      "Fine-tuning"
+    ],
+    "resources": [
+      "Hugging Face documentation"
+    ]
+  },
+  "docker": {
+    "level": "Beginner",
+    "topics": [
+      "Images",
+      "Containers",
+      "Dockerfile",
+      "Volumes",
+      "Docker Compose"
+    ],
+    "resources": [
+      "Docker documentation"
+    ]
+  },
+  "git": {
+    "level": "Beginner",
+    "topics": [
+      "Repository",
+      "Commit",
+      "Branch",
+      "Merge",
+      "Pull request"
+    ],
+    "resources": [
+      "Git documentation",
+      "Practice with GitHub"
+    ]
+  },
+  "aws": {
+    "level": "Beginner",
+    "topics": [
+      "EC2",
+      "S3",
+      "IAM",
+      "Cloud basics"
+    ],
+    "resources": [
+      "AWS Skill Builder"
+    ]
+  },
+  "communication": {
+    "level": "Beginner",
+    "topics": [
+      "Professional communication",
+      "Interview communication",
+      "Presentation skills"
+    ],
+    "resources": [
+      "Practice explaining technical projects"
+    ]
+  }
+}

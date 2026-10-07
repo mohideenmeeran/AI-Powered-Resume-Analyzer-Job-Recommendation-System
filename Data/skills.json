@@ -1,0 +1,89 @@
+{
+    "programming": [
+        "python",
+        "java",
+        "c",
+        "c++",
+        "javascript",
+        "typescript"
+    ],
+
+    "data_science": [
+        "pandas",
+        "numpy",
+        "scipy",
+        "matplotlib",
+        "seaborn",
+        "scikit-learn",
+        "machine learning",
+        "deep learning",
+        "statistics",
+        "data science",
+        "data analysis",
+        "predictive modeling",
+        "data cleaning",
+        "data preprocessing",
+        "feature engineering"
+    ],
+
+    "database": [
+        "sql",
+        "mysql",
+        "postgresql",
+        "sqlite",
+        "mongodb",
+        "database"
+    ],
+
+    "visualization": [
+        "power bi",
+        "tableau",
+        "excel",
+        "data visualization",
+        "plotly"
+    ],
+
+    "ai": [
+        "artificial intelligence",
+        "nlp",
+        "natural language processing",
+        "computer vision",
+        "generative ai",
+        "llm",
+        "rag",
+        "transformers",
+        "prompt engineering",
+        "tensorflow",
+        "pytorch"
+    ],
+
+    "web": [
+        "html",
+        "css",
+        "react",
+        "streamlit",
+        "fastapi",
+        "flask",
+        "django",
+        "rest api"
+    ],
+
+    "cloud_devops": [
+        "aws",
+        "azure",
+        "google cloud",
+        "docker",
+        "kubernetes",
+        "git",
+        "github",
+        "linux"
+    ],
+
+    "other": [
+        "communication",
+        "problem solving",
+        "teamwork",
+        "leadership",
+        "agile"
+    ]
+}

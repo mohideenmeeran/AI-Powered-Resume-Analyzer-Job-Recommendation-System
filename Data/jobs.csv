@@ -1,0 +1,11 @@
+title,company,location,description,skills,experience
+Data Analyst,DataWorks,Chennai,"Analyze business data, create dashboards, prepare reports and identify useful insights using SQL, Python and Power BI.","python;sql;pandas;excel;power bi;statistics",0-2 years
+Junior Data Scientist,Insight Labs,Bangalore,"Build machine learning models, perform exploratory data analysis and develop predictive solutions using Python and scikit-learn.","python;pandas;numpy;scikit-learn;machine learning;statistics;sql",0-2 years
+Machine Learning Engineer,TechNova,Hyderabad,"Develop machine learning pipelines, train predictive models and deploy AI solutions using Python and machine learning technologies.","python;machine learning;scikit-learn;deep learning;docker;git;sql",1-3 years
+AI Engineer,FutureAI,Bangalore,"Develop artificial intelligence applications using Python, NLP, LLMs, transformers and modern AI technologies.","python;artificial intelligence;nlp;llm;transformers;machine learning;git",0-3 years
+Business Analyst,BusinessPro,Chennai,"Analyze business requirements, create reports and dashboards, work with stakeholders and communicate data-driven insights.","sql;excel;power bi;communication;data analysis;statistics",0-2 years
+Python Developer,CodeCraft,Coimbatore,"Develop Python applications, REST APIs and backend services using modern Python frameworks and databases.","python;fastapi;flask;rest api;sql;git;database",0-2 years
+AI/ML Intern,InnovateAI,Chennai,"Work on machine learning experiments, data preprocessing, model development and AI research projects.","python;machine learning;pandas;numpy;scikit-learn;git",0-1 years
+Data Science Intern,AnalyticsHub,Hyderabad,"Support data science projects through data cleaning, visualization, statistical analysis and machine learning.","python;pandas;numpy;matplotlib;statistics;machine learning",0-1 years
+BI Analyst,InsightWorks,Pune,"Create business intelligence dashboards and reports using Power BI, Excel, SQL and data visualization techniques.","power bi;excel;sql;data visualization;statistics",0-2 years
+NLP Engineer,LanguageTech,Bangalore,"Build natural language processing applications using Python, NLP, transformers and large language models.","python;nlp;natural language processing;transformers;llm;deep learning",1-3 years
